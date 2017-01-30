@@ -1,4 +1,4 @@
-# contributing-howto
+# Contributing to AdaCore Repositories - Frequently Asked Questions
 
 ## I want to contribute a patch. We do I need to do? 
 
