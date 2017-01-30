@@ -36,8 +36,7 @@ Contributions and such derivative works for any purpose.
 
 3. Grant of Patent License. Subject to the terms and conditions of this Agreement, You hereby grant to AdaCore and to recipients of software Distributed by AdaCore a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable (except as stated in this section) patent license to make, have made, use, offer to sell, sell, import, sublicense and otherwise transfer the Work, where such license or sublicenses applies only to those patent claims licensable by You that are necessarily infringed by Your Contribution(s) alone or by combination of Your Contribution(s) with the Work to which such Contribution(s) was submitted. AdaCore may define the conditions under which any patent licenses granted under this Agreement for that Contribution or Work to a third party shall be revoked.
 
-4. You represent that you are legally entitled to grant the above license. If your employer(s) has rights to intellectual property that you create that includes your Contributions, you represent that you have received permission to make Contributions on behalf of that employer, that your employer has waived such rights for your Contributions to AdaCore, or that your employer has
-executed a separate Corporate Contributor License Agreement with AdaCore.
+4. You represent that you are legally entitled to grant the above license. If your employer(s) has rights to intellectual property that you create that includes your Contributions, you represent that you have received permission to make Contributions on behalf of that employer, that your employer has waived such rights for your Contributions to AdaCore, or that your employer has executed a separate Corporate Contributor License Agreement with AdaCore.
 
 5. You represent that each of Your Contributions is Your original creation (see section 7 for submissions on behalf of others).  You represent that Your Contribution submissions include complete details of any third-party license or other restriction (including, but not limited to, related patents and trademarks) of which you are personally aware and which are associated with any part of Your Contributions.
 
@@ -52,7 +51,6 @@ executed a separate Corporate Contributor License Agreement with AdaCore.
 
 Please sign: __________________________________ Date: ________________
 
-This AdaCore Individual Contributor License Agreement is derived from the
-Individual Contributor License Agreement V2.0 of the Apache Foundation. 
+This AdaCore Individual Contributor License Agreement is derived from [the Individual Contributor License Agreement V2.0](https://www.apache.org/licenses/icla.txt) of the Apache Foundation. 
 
 
