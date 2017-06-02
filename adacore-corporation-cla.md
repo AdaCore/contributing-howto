@@ -6,19 +6,19 @@ This Agreement allows an entity (the "Corporation") to submit Contributions to A
 
 If you have not already done so, please complete and sign, then scan and email a PDF file of this Agreement to contributions@adacore.com. Please read this document carefully before signing and keep a copy for your records.
 
-  Full name: ______________________________________________________
+  Corporation name:    ________________________________________________
 
-  (optional) Public name: _________________________________________
+   Corporation address: ________________________________________________
 
-  Mailing Address: ________________________________________________
+                        ________________________________________________
 
-  Country:   ______________________________________________________
+                        ________________________________________________
 
-  Telephone: ______________________________________________________
+   Point of Contact:    ________________________________________________
 
-  E-Mail:    ______________________________________________________
+          E-Mail:       ________________________________________________
 
-  (optional) notify project: ______________________________________
+          Telephone:    _____________________ 
 
 You accept and agree to the following terms and conditions for Your present and future Contributions submitted to AdaCore. In return, AdaCore shall only make Your Contributions available to third parties under terms that meet [the definition of Free Software](https://www.gnu.org/philosophy/free-sw.en.html) of the Free Software Foundation, or [the Open Source Definition](https://opensource.org/osd) of the Open Source initiative, which You otherwise know. 
 
@@ -50,6 +50,8 @@ Except for the licenses granted herein to AdaCore and recipients of software dis
 
 
 Please sign: __________________________________ Date: ________________
+
+Name:        __________________________________ 
 
 This AdaCore Corporation Contributor License Agreement is derived from [the Corporation License Agreement Vr190612](https://www.apache.org/licenses/cla-corporate.txt) of the Apache Foundation.
 
