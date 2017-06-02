@@ -6,19 +6,19 @@ This Agreement allows an entity (the "Corporation") to submit Contributions to A
 
 If you have not already done so, please complete and sign, then scan and email a PDF file of this Agreement to contributions@adacore.com. Please read this document carefully before signing and keep a copy for your records.
 
-  Corporation name:    ________________________________________________
+ Corporation name:    ________________________________________________
 
-   Corporation address: ________________________________________________
+ Corporation address: ________________________________________________
 
-                        ________________________________________________
+  _____________________________________________________________________
 
-                        ________________________________________________
+  _____________________________________________________________________
 
-   Point of Contact:    ________________________________________________
+ Point of Contact:    ________________________________________________
 
-          E-Mail:       ________________________________________________
+ E-Mail:       ________________________________________________
 
-          Telephone:    _____________________ 
+ Telephone:    _____________________ 
 
 You accept and agree to the following terms and conditions for Your present and future Contributions submitted to AdaCore. In return, AdaCore shall only make Your Contributions available to third parties under terms that meet [the definition of Free Software](https://www.gnu.org/philosophy/free-sw.en.html) of the Free Software Foundation, or [the Open Source Definition](https://opensource.org/osd) of the Open Source initiative, which You otherwise know. 
 
