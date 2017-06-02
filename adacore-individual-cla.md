@@ -43,7 +43,7 @@ Your Contributions available to third parties under terms that meet [the
 definition of Free Software](https://www.gnu.org/philosophy/free-sw.en.html) of
 the Free Software Foundation, or [the Open Source
 Definition](https://opensource.org/osd) of the Open Source initiative, which
-You otherwise know.
+You confirm You understand.
 
 Except for the licenses granted herein to AdaCore and recipients of software
 distributed by AdaCore, You reserve all right, title, and interest in and to
