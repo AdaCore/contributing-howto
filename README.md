@@ -31,13 +31,13 @@ It’s customary in the software development community to have a copyright notic
 For these reasons, as long as there are no other contributors, the source file headers in our Github repository look like this:
 
 ```
-Copyright © AdaCore, YYYY(-XXXX)
+Copyright (C) YYYY(-XXXX), AdaCore
 ```
 
 When you commit your contribution, you can change at your option the copyright notice to the following (where `<PROJECT_NAME>` is to be replaced by the appropriate GitHub project name):
 
 ```
-Copyright © AdaCore and other contributors, YYYY(-XXXX)
+Copyright (C) YYYY(-XXXX), AdaCore and other contributors
 See https://github.com/AdaCore/<PROJECT_NAME>/graphs/contributors for more information
 ```
 
